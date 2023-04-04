@@ -7,7 +7,7 @@
 
 - 🪴 I’m proud to share [Love Fern](https://www.lovefern.app)
 
-- 🎨 View some past, creative work! [justjakeseymour.com](https://justjakeseymour.com)
+- 🎨 View some past, creative work! [justjakeseymour](https://justjakeseymour.com)
 
 - 📫 How to reach me **justjakeseymour@gmail.com**
 
