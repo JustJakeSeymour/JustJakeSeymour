@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm J Seymour</h1>
 <h3 align="center">An empathetic, skateboarding, Backend Developer</h3>
 
-- 🔭 I’m currently working on [A capstone project, Garden Grow.](https://github.com/Garden-Grow-Turing/garden-grow-be)
+- 🏗 I’m currently working on [a 'semi-satirical' hockey horoscope app.](https://github.com/justjakeseymour/hockeyscope) 🏒🔮
 
 - 🌱 I’m currently learning **Python, Node.js**
 
